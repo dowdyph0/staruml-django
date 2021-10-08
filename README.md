@@ -18,7 +18,7 @@
 To run auto-generate field with suitable ``Django Mode Field``, is necesary to 
 have a diagram with a class for each basic type loaded.
 
-You could download this scheme with [basic class types](https://raw.githubusercontent.com/josemlp91/staruml-django/master/assets/basictypes.mdj)
+You could download this scheme with [basic class types](https://raw.githubusercontent.com/dowdyph0/staruml-django/master/assets/basic_types.mfj)
 
 ### Basic Types
 
