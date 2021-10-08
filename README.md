@@ -26,11 +26,13 @@ You could download this scheme with [basic class types](https://raw.githubuserco
 - **text**:  ``models.TextField``
 - **integer**:   ``models.IntegerField``
 - **decimal**:  ``models.DecimalField``
+- **float**:  ``models.FloatField``
 - **boolean**:   ``models.BooleanField``
 - **date**:   ``models.DateField``
 - **datetime**:   ``models.DateTimeField``
 - **email**:  ``models.EmailField``
 - **file**:  ``models.FileField``
+- **image**: ``models.ImageField``
 
 ![](https://raw.githubusercontent.com/josemlp91/staruml-django/master/docs/images/basic_types.png)
 
