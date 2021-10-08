@@ -42,7 +42,7 @@ You could download this scheme with [basic class types](https://raw.githubuserco
 
 1- Install **StarUML**,  [download page](http://staruml.io/download).
 
-2- Download or clone this [repo](https://github.com/josemlp91/staruml-django).
+2- Download or clone this [repo](https://github.com/dowdyph0/staruml-django).
 
 3- Copy repo files to StarUML extension user folder.
 
